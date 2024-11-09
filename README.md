@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Dominik 👋
+
+I like systems programming, compilers, and automated reasoning.
 
 <!--
 **voidc/voidc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
